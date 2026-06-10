@@ -1,10 +1,17 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suqingji)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suqingji)
-
-![](https://stats.justsong.cn/api/leetcode?username=codesu-m&cn=true)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=suqingji" alt="GitHub stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://stats.justsong.cn/api/leetcode?username=codesu-m&cn=true" alt="LeetCode stats" />
+    </td>
+  </tr>
+</table>
 
 ![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 
