@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+
 <table>
   <tr>
     <td align="center">
@@ -13,7 +16,6 @@
   </tr>
 </table>
 
-![3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 
 Here are some ideas to get you started:
 
