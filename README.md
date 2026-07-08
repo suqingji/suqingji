@@ -5,9 +5,6 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=suqingji" alt="GitHub stats" height="180" />
-    </td>
-    <td align="center">
       <img src="https://stats.justsong.cn/api/leetcode?username=codesu-m&cn=true" alt="LeetCode stats" height="180" />
     </td>
   </tr>
